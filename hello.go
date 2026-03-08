@@ -9,5 +9,5 @@ func main() {
 	fmt.Println(quote.Go());
 	fmt.Println(quote.Opt());
 	fmt.Println(quote.Hello());
-	fmt.Println(Greet("Preethi"));
+	fmt.Println(Greet(""));
 }
